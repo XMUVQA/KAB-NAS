@@ -1,5 +1,5 @@
 # KAB-NAS
-This is the source code for "K-armed Bandit based Multi-modal Network Architecture Search for Visual Question Answering" built based on two high-quality projects, i.e., [ProxylessNAS] (https://github.com/mit-han-lab/proxylessnas) and [OpenVQA] (https://github.com/MILVLG/openvqa). 
+This is the source code for "K-armed Bandit based Multi-modal Network Architecture Search for Visual Question Answering" built based on two high-quality projects, i.e., [ProxylessNAS](https://github.com/mit-han-lab/proxylessnas) and [OpenVQA](https://github.com/MILVLG/openvqa). 
 
 ## Quick Start
 
